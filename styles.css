@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.btn {
+  width: 100px;
+  height: 100px;
+  font-size: 30px;
+}
+
+.winner {
+    background-color: lightgreen;
+    border-color: black;
+}
